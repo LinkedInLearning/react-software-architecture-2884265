@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Articles.js"],"names":["Articles"],"mappings":"uHAAA,gEAEaA,EAAW,WACvB,OACC,2CAIaA","file":"static/js/4.8cc75fa4.chunk.js","sourcesContent":["import React from 'react';\n\nexport const Articles = () => {\n\treturn (\n\t\t<h1>Articles</h1>\n\t);\n}\n\nexport default Articles;"],"sourceRoot":""}
