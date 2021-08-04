@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Three.js"],"names":["Three"],"mappings":"uHAAA,6DAEaA,EAAQ,WACpB,OACC,wCAIaA","file":"static/js/7.199bc36f.chunk.js","sourcesContent":["import React from 'react';\n\nexport const Three = () => {\n\treturn (\n\t\t<h2>Three</h2>\n\t);\n}\n\nexport default Three;"],"sourceRoot":""}

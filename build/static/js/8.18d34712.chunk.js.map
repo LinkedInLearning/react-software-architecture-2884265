@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Two.js"],"names":["Two"],"mappings":"uHAAA,2DAEaA,EAAM,WAClB,OACC,sCAIaA","file":"static/js/8.18d34712.chunk.js","sourcesContent":["import React from 'react';\n\nexport const Two = () => {\n\treturn (\n\t\t<h2>Two</h2>\n\t);\n}\n\nexport default Two;"],"sourceRoot":""}
